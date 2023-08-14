@@ -5,3 +5,4 @@ Now that [OpenAI has officially recognised GPTbot](https://platform.openai.com/d
 | Site | Source |
 | --- | --- |
 | The Verge |  https://www.theverge.com/robots.txt |
+| Vox | https://www.vox.com/robots.txt |
