@@ -3,7 +3,7 @@
 Now that [OpenAI has officially recognised `GPTbot`](https://platform.openai.com/docs/gptbot), here is a list of public sites that have taken the iniatitive to block ChatGPT from scraping their site going forward (in no particular order). 
 
 | Site | Source | Date Found | DR |
-| --- | --- | --- |
+| --- | --- | --- | --- |
 | The Verge |  https://www.theverge.com/robots.txt | 12th August 2023 | 92 |
 | Vox | https://www.vox.com/robots.txt | 12th August 2023 | 91 |
 | Stack Overflow | https://stackoverflow.com/robots.txt | 14th August 2023 | 92 |
