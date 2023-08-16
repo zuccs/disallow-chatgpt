@@ -17,3 +17,4 @@ Now that [OpenAI has officially recognised `GPTbot`](https://platform.openai.com
 | MyHeritage | https://www.myheritage.com/robots.txt | 15th August 2023 | 79 |
 | POPSUGAR | https://www.popsugar.com/robots.txt | 15th August 2023 | 88 |
 | Economic Times | https://economictimes.indiatimes.com/robots.txt | 15th August 2023 | 91 |
+| Mastodon | https://github.com/mastodon/mastodon/blob/main/public/robots.txt | 16th August 2023 | N/A |
