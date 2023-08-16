@@ -18,3 +18,11 @@ Now that [OpenAI has officially recognised `GPTbot`](https://platform.openai.com
 | POPSUGAR | https://www.popsugar.com/robots.txt | 15th August 2023 | 88 |
 | Economic Times | https://economictimes.indiatimes.com/robots.txt | 15th August 2023 | 91 |
 | Mastodon | https://github.com/mastodon/mastodon/blob/main/public/robots.txt | 16th August 2023 | N/A |
+| Android Authority | https://www.androidauthority.com/robots.txt | 17th August 2023 | 85 |
+| Glassdoor | https://www.glassdoor.com/robots.txt | 17th August 2023 | 91 | 
+| Basketball Reference | https://www.basketball-reference.com/robots.txt | 17th August 2023 | 78 |
+| Coursera | https://www.coursera.org/robots.txt | 17th August 2023 | 91 | 
+| SB Nation | https://www.sbnation.com/robots.txt | 17th August 2023 | 83 | 
+| Outsports | https://www.outsports.com/robots.txt | 17th August 2023 | 74 | 
+| CarsDirect | https://www.carsdirect.com/robots.txt | 17th August 2023 | 72 |
+| SteamDB | https://steamdb.info/robots.txt | 17th August 2023 | 76 |
