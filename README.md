@@ -30,3 +30,4 @@ Now that [OpenAI has officially recognised `GPTbot`](https://platform.openai.com
 | Reuters | https://www.reuters.com/robots.txt | 18th August 2023 | 92 | 
 | Radio France | https://www.radiofrance.fr/robots.txt | 18th August 2023 | 89 |
 | Video Gamer | https://www.videogamer.com/robots.txt | 18th August 2023 | 71 |
+| The Athletic | https://theathletic.com/robots.txt | 18th August 2023 | 83 |
