@@ -21,6 +21,7 @@ Now that [OpenAI has officially recognised `GPTbot`](https://platform.openai.com
 | Android Authority | https://www.androidauthority.com/robots.txt | 17th August 2023 | 85 |
 | Glassdoor | https://www.glassdoor.com/robots.txt | 17th August 2023 | 91 | 
 | Basketball Reference | https://www.basketball-reference.com/robots.txt | 17th August 2023 | 78 |
+| Sports Reference | https://www.sports-reference.com/robots.txt | 17th August 2023 | 76 | 
 | Coursera | https://www.coursera.org/robots.txt | 17th August 2023 | 91 | 
 | SB Nation | https://www.sbnation.com/robots.txt | 17th August 2023 | 83 | 
 | Outsports | https://www.outsports.com/robots.txt | 17th August 2023 | 74 | 
@@ -32,3 +33,6 @@ Now that [OpenAI has officially recognised `GPTbot`](https://platform.openai.com
 | Video Gamer | https://www.videogamer.com/robots.txt | 18th August 2023 | 71 |
 | The Athletic | https://theathletic.com/robots.txt | 18th August 2023 | 83 |
 | The New York Times | https://www.nytimes.com/robots.txt | 19th August 2023 | 94 | 
+| Indeed | https://www.indeed.com/robots.txt | 19th August 2023 | 92 | 
+| Bustle | https://www.bustle.com/robots.txt | 19th August 2023 | 89 | 
+| Curbed | https://www.curbed.com/robots.txt | 19th August 2023 | 87 | 
