@@ -1,6 +1,6 @@
 # Sites Officially Disallowing ChatGPT bot
 
-Now that [OpenAI has officially recognised `GPTbot`](https://platform.openai.com/docs/gptbot), here is a list of public sites that have taken the iniatitive to block ChatGPT from scraping their site going forward (in no particular order). 
+Now that [OpenAI has officially recognised `GPTbot`](https://platform.openai.com/docs/gptbot), here is a list of public sites that have taken the iniatitive to block ChatGPT from scraping their site going forward.  
 
 | Site | Source | Date Found | DR |
 | --- | --- | --- | --- |
@@ -31,3 +31,4 @@ Now that [OpenAI has officially recognised `GPTbot`](https://platform.openai.com
 | Radio France | https://www.radiofrance.fr/robots.txt | 18th August 2023 | 89 |
 | Video Gamer | https://www.videogamer.com/robots.txt | 18th August 2023 | 71 |
 | The Athletic | https://theathletic.com/robots.txt | 18th August 2023 | 83 |
+| The New York Times | https://www.nytimes.com/robots.txt | 19th August 2023 | 94 | 
