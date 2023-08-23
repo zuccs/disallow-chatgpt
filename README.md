@@ -39,3 +39,6 @@ Now that [OpenAI has officially recognised `GPTbot`](https://platform.openai.com
 | BBC Good Food | https://www.bbcgoodfood.com/robots.txt | 21st August 2023 | 87 | 
 | DigitalOceean | https://www.digitalocean.com/robots.txt | 21st August 2023 | 91 | 
 | AIAA | https://www.aiaa.org/robots.txt | 21st August 2023 | 79 |
+| Kelley Blue Book | https://www.kbb.com/robots.txt | 23rd August 2023 | 89 | 
+| Autotrader | https://www.autotrader.com/robots.txt | 23rd August 2023 | 80 | 
+| The Ringer | https://www.theringer.com/robots.txt | 23rd August 2023 | 81 | 
