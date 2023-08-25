@@ -42,3 +42,7 @@ Now that [OpenAI has officially recognised `GPTbot`](https://platform.openai.com
 | Kelley Blue Book | https://www.kbb.com/robots.txt | 23rd August 2023 | 89 | 
 | Autotrader | https://www.autotrader.com/robots.txt | 23rd August 2023 | 80 | 
 | The Ringer | https://www.theringer.com/robots.txt | 23rd August 2023 | 81 | 
+| Healthgrades | https://www.healthgrades.com/robots.txt | 25th August 2023 | 87 |
+| Chicago Tribune | https://www.chicagotribune.com/robots.txt | 25th August 2023 | 91 |
+| Bloomberg | https://www.bloomberg.com/robots.txt | 25th August 2023 | 92 |
+| Insider | https://www.insider.com/robots.txt | 25th August 2023 | 90 |
