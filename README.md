@@ -46,3 +46,12 @@ Now that [OpenAI has officially recognised `GPTbot`](https://platform.openai.com
 | Chicago Tribune | https://www.chicagotribune.com/robots.txt | 25th August 2023 | 91 |
 | Bloomberg | https://www.bloomberg.com/robots.txt | 25th August 2023 | 92 |
 | Insider | https://www.insider.com/robots.txt | 25th August 2023 | 90 |
+| ESPN | https://www.espn.com/robots.txt | 28th August 2023 | 91 |
+| TED | https://www.ted.com/robots.txt | 28th August 2023 | 92 | 
+| Cisco | https://www.cisco.com/robots.txt | 28th August 2023 | 91 | 
+| WorldCat | https://www.worldcat.org/robots.txt | 28th August 2023 | 91 |
+| Simply Psychology | https://www.simplypsychology.org/robots.txt | 28th August 2023 | 83 |
+| Eater | https://www.eater.com/robots.txt | 28th August 2023 | 90 | 
+| Business Insider | https://www.businessinsider.com/robots.txt | 28th August 2023 | 92 | 
+| Vultr | https://www.vultr.com/robots.txt | 28th August 2023 | 86 | 
+| Nikkei | https://www.nikkei.com/robots.txt | 28th August 2023 | 91 |
