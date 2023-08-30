@@ -56,3 +56,7 @@ Now that [OpenAI has officially recognised `GPTbot`](https://platform.openai.com
 | Vultr | https://www.vultr.com/robots.txt | 28th August 2023 | 86 | 
 | Nikkei | https://www.nikkei.com/robots.txt | 28th August 2023 | 91 |
 | Vogue | https://www.vogue.com/robots.txt | 30th August 2023 | 90 |
+| Bon Appétit | https://www.bonappetit.com/robots.txt | 30th August 2023 | 90 |
+| Bankrate | https://www.bankrate.com/robots.txt | 30th August 2023 | 90 |
+| ABC News | https://abcnews.go.com/robots.txt | 30th August 2023 | 92 | 
+| ABC | https://www.abc.net.au/robots.txt | 30th August 2023 | 91 |
