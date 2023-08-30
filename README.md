@@ -55,3 +55,4 @@ Now that [OpenAI has officially recognised `GPTbot`](https://platform.openai.com
 | Business Insider | https://www.businessinsider.com/robots.txt | 28th August 2023 | 92 | 
 | Vultr | https://www.vultr.com/robots.txt | 28th August 2023 | 86 | 
 | Nikkei | https://www.nikkei.com/robots.txt | 28th August 2023 | 91 |
+| Vogue | https://www.vogue.com/robots.txt | 30th August 2023 | 90 |
